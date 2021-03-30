@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+body{
+    font-family: Roboto;
+    overflow: hidden;
+}
+form{
+    background:rgba(96, 96, 96,0.6);
+    float: left;
+ width: 30%;
+ margin:20px ;
+ color: #000;
+}
+#formResult{
+    background:rgba(96, 96, 96,0.6);
+    float: left;
+     width: 30%;
+  margin:20px ;
+  color: #000;
+
+}
+
